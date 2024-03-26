@@ -1,6 +1,11 @@
-![cct dashboard](https://github.com/CCT-WDI/pmc/assets/118743210/e7913ce5-3305-4e9e-889e-d8155514a433)
+## Overview
 
-Needs to be done
+This project is a clone of Jira Software, a popular project management tool, built using PHP, MySQL,
+and email functionalities. It provides a platform for teams to manage their projects, track tasks, and collaborate effectively.
 
-- update task (admin)
-- email 
+## Technologies Used
+
+PHP: Server-side scripting language for backend development (for api).
+MySQL: Relational database management system for data storage.
+HTML/CSS/JavaScript(jquery): Frontend development for the user interface.
+SMTP: Simple Mail Transfer Protocol for sending email notifications.
